@@ -1,5 +1,5 @@
 # PANDA
-This project is prepared for the Kaggle Challenge : Prostate cANcer graDe Assessment (PANDA) Challenge (https://www.kaggle.com/c/prostate-cancer-grade-assessment?rvi=1)
+This project is prepared for the Kaggle Challenge : [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment?rvi=1)
 
 **Goal of the challenge:**
 * is to identify the severity of the prostate cancer for given a biopsy image.
@@ -10,7 +10,7 @@ This project is prepared for the Kaggle Challenge : Prostate cANcer graDe Assess
 * train models on multi-GPU and TPU platforms
 * join a Kaggle challenge
 
-**Content**
+**Content:**
 
 * Data_analysis.ipynb - Initial data analysis for the provided dataset
 * Data_cleanup.ipynb  - Sanity checks on the dataset
