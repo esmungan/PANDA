@@ -7,6 +7,7 @@ This project is prepared for the Kaggle Challenge : [Prostate cANcer graDe Asses
 **Personal goals of this project were to:**
 
 * showcase Tensorflow capabilities in a medium-scale image processing project
+* experiment with transfer learning
 * train models on multi-GPU and TPU platforms
 * join a Kaggle challenge
 
